@@ -225,7 +225,7 @@
             this.Controls.Add(this.tb_titel);
             this.Controls.Add(this.dtp_date);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "OPDRACHT 4: \"TeDoen\"";
             this.ResumeLayout(false);
             this.PerformLayout();
 
